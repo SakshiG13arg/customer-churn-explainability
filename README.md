@@ -27,7 +27,7 @@
 - Mitigation: SMOTE reduces disparity.
 
 ## Screenshots
-- screenshot 1.png, Screenshot 2.png: Existing model outputs.
+- "C:\Users\HP\Pictures\Screenshots\Screenshot (84).png", "C:\Users\HP\Pictures\Screenshots\Screenshot (85).png": Existing model outputs.
 - Run notebook for new plots (SHAP/LIME/bias comparisons).
 
 Dataset: `customer_churn_data.csv` (Telco churn, sensitive attrs: gender, SeniorCitizen).
